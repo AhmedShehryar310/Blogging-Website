@@ -1,6 +1,5 @@
 {
   "extends": "stylelint-config-standard",
-  {
   "rules": {
     "declaration-block-no-duplicate-properties": true,
     "no-duplicate-selectors": true,
@@ -10,6 +9,4 @@
     "block-no-empty": true,
     "declaration-block-single-line-max-declarations": 1
   }
-}
-
 }
