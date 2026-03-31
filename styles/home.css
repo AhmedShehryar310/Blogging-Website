@@ -1,0 +1,9 @@
+/* home.css */
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial;
+  margin: 0;
+  padding: 0;
+}
+#site-header { padding: 1rem; display: flex; justify-content: space-between; align-items: center; }
+nav a { margin-left: 1rem; text-decoration: none; text-transform: lowercase; }
+#hero img { max-width: 100%; height: auto; display: block; }
